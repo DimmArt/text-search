@@ -1,1 +1,2 @@
-Hello
+Some test content from filed used in indexing.
+Name of this file is "test2"

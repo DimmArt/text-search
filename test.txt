@@ -1,2 +1,2 @@
-Hello, world! Hello from me!
-Second a line.
+Hello, world! Hello from file name test!
+Second a line of test file.

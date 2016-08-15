@@ -1,5 +1,6 @@
 class IndexFileParser
 
+  #path to file where indexes are stored
   @@index_file = './indexes/index'
 
   def self.index_file

@@ -2,7 +2,6 @@
 require 'optparse'
 require './lib/index_file_parser'
 
-#####################
 file = ''
 
 OptionParser.new do |opts|
